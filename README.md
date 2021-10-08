@@ -6,3 +6,4 @@ Calculate returns and volatilities etc. at/after
 - 52-week high
 - 52-week low
 - YTD high
+- open-close return on IPO date large IPO

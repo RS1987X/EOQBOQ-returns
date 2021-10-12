@@ -45,4 +45,3 @@ vol = op_cl_return_first_trading_day.std()
 
 kelly_f = avg/vol**2
 kelly_f_trimmed_extreme_values = stats.trim_mean(op_cl_return_first_trading_day,0.05) / stats.mstats.trimmed_std(op_cl_return_first_trading_day,0.05)**2
-
